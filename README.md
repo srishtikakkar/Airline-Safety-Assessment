@@ -5,6 +5,8 @@ The case study was done to assess the safety of airlines based on its track reco
 
 Furthermore, other factors within the limit of the dataset were analyzed and type of ownership of the airline was identified as a potential predictor. ‘Are nationalized airlines safer than privatized ones?’ emerged as a sub question for the analysis.
 
+The report documents the work undertaken to find out if the safety of airlines could be assessed based on its track record and type of ownership. The information pertaining to the crash history of airlines, the steps taken to convert this information into a risk score which indicates the risk of flying in that particular airline and the inferences upon completion of exploratory data analysis are discussed in length.
+
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
